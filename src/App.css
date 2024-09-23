@@ -15,6 +15,11 @@
     }
 }
 
+@layer utilities {
+    .bg-img {
+        background : "url('./src/assets/images/background.jpg')",
+    }
+}
 
 @tailwind base;
 @tailwind components;
