@@ -7,7 +7,6 @@ import Blogs1 from "./pages/contentBlogs/Blogs1"
 import Blogs2 from "./pages/contentBlogs/Blogs2"
 import Blogs3 from "./pages/contentBlogs/Blogs3"
 import Blogs4 from "./pages/contentBlogs/Blogs4"
-import Footer from "./components/footer"
 
 
 
