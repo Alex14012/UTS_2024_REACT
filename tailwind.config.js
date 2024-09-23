@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage:{
-        "background" : "url('./background.jpg')",
+        "background" : "url('./src/assets/images/background.jpg')",
       },
 
       fontFamily:{

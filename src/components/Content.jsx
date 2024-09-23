@@ -9,7 +9,7 @@ function Content({titleLeft, subtitleLeft, titleRight, subtitleRight, imagesLeft
         
         <div className="w-full overflow-hidden rounded-md">     
             <Link to={blogsNewsLeft}>
-                <div className="w-[800px] h-[450px] transition bg-no-repeat bg-cover bg-center hover:scale-105 ease-in-out delay-75 duration-500">
+                <div className="w-[800px h-[450px] transition bg-no-repeat bg-cover bg-center hover:scale-105 ease-in-out delay-75 duration-500">
                     <div className="w-full bottom-0 transition ease-linear flex flex-col bg-black pt-1"> 
                     <h1 className="pl-6 text-3xl font-medium text-white font-Montserrat">
                       {titleLeft}
