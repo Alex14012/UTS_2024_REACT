@@ -1,0 +1,21 @@
+@layer base{
+    @font-face {
+        font-family: MontSerrat;
+        src: url(./assets/font/Montserrat/Montserrat-VariableFont_wght.ttf);
+    }
+
+    @font-face {
+        font-family:Asteroidbeat;
+        src: url(./assets/font/Y1AsteroidBeat.otf);
+    }
+
+    @font-face {
+        font-family: Arimo;
+        src: url(./assets//font/Arimo-VariableFont_wght.ttf);
+    }
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
