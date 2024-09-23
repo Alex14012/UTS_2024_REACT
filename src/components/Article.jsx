@@ -8,7 +8,7 @@ function Article({titleArticle, image, newsArticle}){
             <div>
                 <img src={image} alt="" className="w-[950px]" />
             </div>
-            <div className="bg-white content-center text-center">
+            <div className="bg-white content-center text-center h-full">
                 <p className="pt-8 pb-7 text-lg">{newsArticle}</p>
             </div>
         </div>
